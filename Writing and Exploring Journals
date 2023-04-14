@@ -10,9 +10,14 @@
 Provide me with references and links to papers in the <your_topic> field
 
 ######################################################################################################
-**Exploring papaers**
+**Exploring papaers using Bing**
     Identify the key findings and implications of the  research paper.
     
+###################################################################################################### 
+#Let AI read your pasted text before chating with her/hem#
+      pleae read this and say read when done :
+      “<your_written_Text>”
+
 ######################################################################################################   
 **Expanding Notes**   
     Act as an expert in <ENTER_FIELD> and expand the below notes.
@@ -23,7 +28,7 @@ Provide me with references and links to papers in the <your_topic> field
     
 ######################################################################################################
 **Proofreading**
-    Act as a language expert, proofread my paper on “your_written_Text” while putting a focus on grammar and punctuation.
+    Act as a language expert, proofread my paper on “<your_written_Text>” while putting a focus on grammar and punctuation.
     
 ######################################################################################################
 **Summarize**
