@@ -1,3 +1,12 @@
+**Chat GPT - Pass Detection 100% Human Written With This Prompt**
+      I'm going to give you some information before asking you to write an article. Do you understand?
+
+      When it comes to writing content, twa factors are crucial, "perplexity" and "burstiness." Perplexity measures the complexity of text. Separately, burstiness compares the variations of sentences.
+      Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. Al sentences tend to be more uniform. Therefore, when writing the following content | am going to ask you to create, | need it to have a good amount of perplexity and
+      burstiness. Do you understand? :
+      
+      using the concepts written previously, rewrite this article with a high degree of perplexity and burstiness: <text_here> 
+######################################################################################################
 **Asking Questins for writing**
       "<your_Questin> ?"
       above question is a ---------------:
@@ -43,4 +52,4 @@ Provide me with references and links to papers in the <your_topic> field
 ######################################################################################################
 **Dealing with Wrong references and Citations**
 
-      for the your last out put, I am not happy with the reference and citations you have depend on, rewrite considering other references, please verify your new references and provide their  links 
+      for the your last out put, I am not happy with the reference and citations you have depend on, rewrite considering other references, please verify your new references and provide their links 
